@@ -1,2 +1,2 @@
-# Red-Six-Winter19
-Roguelike game played in your browser.
+# Last-Labyrinth-W19
+Roguelike browser game made for TCSS491 Computational Worlds
